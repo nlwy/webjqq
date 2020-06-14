@@ -67,7 +67,7 @@
     <el-card class="card-table">
       <div class="button-list">
         <el-button type="primary">导出数据</el-button>
-        <el-button type="danger">传送到明道云</el-button>
+        <el-button type="danger">同步到明道云</el-button>
       </div>
       <div class="content-table">
         <el-table

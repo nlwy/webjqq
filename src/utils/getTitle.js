@@ -2,9 +2,9 @@
  * 网站页面标题
  */
 
-const title = "vue-admin";
-const getTitle = function(til) {
-  let allTitle = til + "-" + title;
-  return allTitle;
-};
-export default getTitle;
+const title = '联盟超级系统'
+const getTitle = function (til) {
+  const allTitle = title + '-' + til
+  return allTitle
+}
+export default getTitle
